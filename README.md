@@ -1,6 +1,6 @@
 # testing_git
 This is a practice repository for Uluru92
-#This is a big header
+# This is a big header
 ### this is a smaler header
 
 [this is a link] (https://codingnomads.co)
