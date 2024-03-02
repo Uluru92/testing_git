@@ -9,3 +9,7 @@ this is new line 3
 this is new line 4
 
 this is new line 5
+
+this is new line 6: Recordatorio: el 31 de Marzo se cierra la plataforma de CodingNomads!
+
+
