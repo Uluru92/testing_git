@@ -12,4 +12,4 @@ this is new line 5
 
 this is new line 6: Recordatorio: el 31 de Marzo se cierra la plataforma de CodingNomads!
 
-
+This is new line 7: Recordatorio: EL martes 12 tengo la cita médica. Estaré en San Carlos del 3 al 6 de marzo.
